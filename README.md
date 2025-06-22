@@ -2,7 +2,7 @@
 My exam project using machine learning to classify MNIST digits.
 
 This project classifies handwritten digits using the MNIST dataset in CSV format.  
-It was originally developed as a final exam project for a vocational college degree in Applied Machine Learning.
+It was originally developed as an exam project in Applied Machine Learning.
 
 The model is trained on labeled image data (28x28 pixels flattened to 784 columns), and predicts digits from 0 to 9.
 
